@@ -19,7 +19,7 @@ Pour lancer le serveur de développement permettant de prévisualiser la page, o
 
 ```bash
 python -m http.server 8080
-```
+
 
 Le port TCP 8080 n'est pas libre, vous pouvez essayer d'utiliser un nombre nombre que 8080, tel que 8081, 8000 ou 9000.
 
