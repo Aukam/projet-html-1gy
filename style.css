@@ -1,0 +1,147 @@
+h1
+{
+
+    text-align: center; /* aligne le texte au centre de la page*/
+    font-size: 70px; /*taille du texte*/
+    font-family: 'Courier New', Courier, monospace; /*police d'écriture*/
+    background-color: #ffffff96;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 1em;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+h2
+{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+body 
+{
+        background-image: url("https://www.skppsc.ch/fr/wp-content/uploads/sites/5/2016/11/phishing1-2560x1280.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    
+}
+
+.background
+{
+    border      : #ffffff 5px solid;
+    background-color: #727baa;
+    margin-right    : -8px;
+    margin-left    : -8px;
+    padding-bottom: 10px;
+    margin: 30px;
+    border-radius: 1em;
+}
+
+
+
+.ul-nav
+{
+    text-align: center;
+    overflow: hidden;
+    background-color: rgb(88, 110, 141);
+    list-style-type: none;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+.li-nav
+{
+    display: inline-block;
+
+}
+li a 
+{
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    border: #ffffff 1px solid;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.link-navbar:hover
+{
+    background-color: rgb(175, 212, 255);
+    border-radius: 10px;
+}
+
+.size
+{
+    font-size: 20px;
+}
+
+.img
+{
+    width        : 20%;
+    height       : 20%;
+    border-radius: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+.img-banc
+{
+    width        : 40%;
+    height       : 40%;
+    border-radius: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.img-phishing
+{
+    width        : 50%;
+    height       : 50%;
+    border-radius: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.texte
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.liste-puce
+{
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+.txt
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
